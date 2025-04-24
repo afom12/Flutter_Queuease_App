@@ -1,0 +1,9 @@
+{
+  "login": "Login",
+  "register": "Register",
+  "email": "Email",
+  "password": "Password",
+  "confirmPassword": "Confirm Password",
+  "selectLanguage": "Select Language",
+  "welcomeMessage": "Welcome to Queuease!"
+}

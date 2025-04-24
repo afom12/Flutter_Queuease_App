@@ -1,0 +1,9 @@
+{
+  "login": "ግባ",
+  "register": "መመዝገብ",
+  "email": "ኢሜል",
+  "password": "የይለፍ ቃል",
+  "confirmPassword": "የይለፍ ቃልን አረጋግጥ",
+  "selectLanguage": "ቋንቋ ምረጥ",
+  "welcomeMessage": "ወደ Queuease እንኳን በደህና መጡ!"
+}
