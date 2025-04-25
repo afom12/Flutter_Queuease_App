@@ -19,7 +19,6 @@ Queuease is a smart, intuitive, and responsive virtual queue management app deve
 - 🏦 Banks and Financial Institutions
 - 🏢 Government Offices
 - 🧾 Customer Service Centers
-- 💈 Salons, Studios, and more
 
 ## 🖼 Screenshots
 
