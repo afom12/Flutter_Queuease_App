@@ -16,7 +16,6 @@ Queuease is a smart, intuitive, and responsive virtual queue management app deve
 
 
 
-
 ## 💼 Use Cases
 
 - 🏢 Government Offices especially for  Immegration offices
