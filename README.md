@@ -13,7 +13,6 @@ Queuease is a smart, intuitive, and responsive virtual queue management app deve
 - 🌐 Multilingual UI: English & Amharic
 - ⚙️ Admin dashboard with controls and analytics
 
-
 ## 💼 Use Cases
 
 - 🏢 Government Offices especially for  Immegration offices
