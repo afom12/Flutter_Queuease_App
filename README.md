@@ -4,7 +4,7 @@ Queuease is a smart, intuitive, and responsive virtual queue management app deve
 
 ## ✨ Features
 
-- ✅ Virtual queue registration (ticket system)
+- ✅ Virtual queue registration
 - 📊 Real-time updates on queue status
 - 📍 Location-based branch selection
 - 🔔 Notifications & alerts for your turn
