@@ -3,7 +3,6 @@
 
 
 
-
 # 📲 Queuease - Virtual Queue Management System
 
 Queuease is a smart, intuitive, and responsive virtual queue management app developed using Flutter and powered by Firebase. It empowers businesses and service providers to manage customer queues efficiently while enhancing user experience by reducing wait times.
